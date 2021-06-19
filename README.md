@@ -4,7 +4,8 @@
   margin-right= "auto"
   width="50%" src="./dev-with-beard.gif">
 </p>
-<div align = 'right'>![](https://komarev.com/ghpvc/?username=devadathprabhu&color=yellow)</div>
+
+### <div align="right">![](https://komarev.com/ghpvc/?username=devadathprabhu&color=yellow)</div>
 <br/>
 
 # DEVADATH C PRABHU
