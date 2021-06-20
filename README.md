@@ -1,7 +1,7 @@
 <p align="center">
 <img
-  src="./devadath-git-background.jpeg"
-  heigth="100" width="750" />
+  src="./dev-with-beard.gif"
+  heigth="20px" width="200px" />
 </p>
 
 ### <div align="right">![](https://komarev.com/ghpvc/?username=devadathprabhu&color=yellow)</div>
