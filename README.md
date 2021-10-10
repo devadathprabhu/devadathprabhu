@@ -11,7 +11,7 @@
 
 ### A full time engineer 💻 and a part time traveller ✈️ 
 - 👋  I'm Devadath from Bengaluru, India and I am into backend engineering. I work on microservices, distributed systems to develop scalable backend services.  <br/>
-- 🏢  I have about 5 years of experience in the software industry, and currently working on Video Delivery Platform of discovery+ at Discovery Inc. <br/>
+- 🏢  I have about 5 years of experience in the software industry, and currently working on Video Delivery Platform at Discovery Inc. <br/>
 - 🤓  I have a solid understanding of Data Structures, Algorithms, OOPs, Design Patterns and good exposure to software best practices like Test-Driven Development (TDD), CI/CD, Agile methodologies, Scrum.
 - 💥  I enjoy what I do and in this process I learn, unlearn and relearn.
 
